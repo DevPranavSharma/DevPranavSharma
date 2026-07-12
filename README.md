@@ -26,9 +26,9 @@ const pranav = {
   currentlyAt: "Nextiva",
 
   whatIDo: [
+    "Build mobile apps, web apps, and everything in between",
     "Architected the NEXT mobile platform from zero to production",
-    "Shipped an Omnichannel Inbox used across voice, SMS, and chat",
-    "Built AI-powered call Transcription & Summarization features",
+    "Shipped an Omnichannel Inbox and AI-powered Transcription & Summarization",
   ],
 
   receipts: {
@@ -37,15 +37,18 @@ const pranav = {
     loadTimeImprovement: "-24%", // FlashList migration + profiling
   },
 
-  previously: "GeekyAnts → fintech, edtech, e-commerce at scale",
+  previously: "GeekyAnts India Private Limited",
 
   obsessions: [
-    "React Native internals (Fabric, bridges, the hook slot machine)",
-    "Performance profiling until the frame graph is flat",
-    "AI & agentic tooling in mobile workflows",
+    "React Native & React",
+    "Tech in general, if it ships, I want to know how it works",
   ],
 
-  offTheClock: "Sim racing on a G29 wheel. H-pattern or nothing. 🏁",
+  offTheClock: [
+    "Football (the one played with feet ⚽)",
+    "PS5 gaming: God of War, Uncharted, RDR2",
+    "Getting into sim racing 🏁",
+  ],
 } as const;
 ```
 
@@ -92,8 +95,8 @@ const pranav = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DevPranavSharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPranavSharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DevPranavSharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&rank_icon=github&cache_seconds=86400" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPranavSharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8&cache_seconds=86400" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=DevPranavSharma&theme=tokyonight&hide_border=true&background=1a1b26" />
 
@@ -114,11 +117,10 @@ const pranav = {
 ## `~/misc $ cat easter-egg.txt`
 
 ```
-🏁 Weekend telemetry: PS5 + Logitech G29 + H-pattern shifter.
-   Farming sims, trucking sims, anything with a clutch.
-   Arcade racers need not apply.
+⚽ Will pause a deploy for a Champions League knockout game.
+🎮 Currently somewhere between Midgard and the Wild West.
 
-📱 Current fixation: making React Native apps feel native
+📱 Ongoing mission: making React Native apps feel native
    enough that nobody asks "is this React Native?"
 ```
 
